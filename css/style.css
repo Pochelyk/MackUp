@@ -1,0 +1,38 @@
+
+.header {padding-top: 10px;
+    background-color: #0f0f0f;
+    height: 100px;
+
+
+}
+
+.header .mack {
+    background-color: #858eff;
+    height: 70px;
+    margin: 2px;
+    border-radius: 10px;
+}
+
+.content {padding-top: 10px;
+    background-color: #0f0f0f;
+}
+
+.content .mack {
+    background-color: greenyellow;
+    height: 830px;
+    margin: 2px;
+    border-radius: 10px;
+}
+
+.banner .mack {
+    background-color: deepskyblue;
+    height: 100px;
+    margin: 2px;
+    border-radius: 10px;
+}
+.grid .mack {
+    background-color: yellow;
+    height: 100px;
+    margin: 2px;
+    border-radius: 10px;
+}
